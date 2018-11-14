@@ -5,4 +5,4 @@ data/users
 img/
 
 Botni rivojlantirish istagingiz bolsa bemalol 
-t.me/ilyosjr
+http://t.me/ilyosjr ga yozishingiz mumkin
